@@ -12,7 +12,7 @@ namespace User_Division
         {
             int num_01;
             int num_02;
-
+            
             Console.Write("Please enter your first number: ");
             num_01 = Convert.ToInt32(Console.ReadLine());
             Console.Write("Please enter your second number: ");
