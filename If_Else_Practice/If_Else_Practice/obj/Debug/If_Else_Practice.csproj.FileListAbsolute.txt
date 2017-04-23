@@ -1,0 +1,6 @@
+C:\Users\Tyler\Documents\C#\If_Else_Practice\If_Else_Practice\bin\Debug\If_Else_Practice.exe.config
+C:\Users\Tyler\Documents\C#\If_Else_Practice\If_Else_Practice\bin\Debug\If_Else_Practice.exe
+C:\Users\Tyler\Documents\C#\If_Else_Practice\If_Else_Practice\bin\Debug\If_Else_Practice.pdb
+C:\Users\Tyler\Documents\C#\If_Else_Practice\If_Else_Practice\obj\Debug\If_Else_Practice.csprojResolveAssemblyReference.cache
+C:\Users\Tyler\Documents\C#\If_Else_Practice\If_Else_Practice\obj\Debug\If_Else_Practice.exe
+C:\Users\Tyler\Documents\C#\If_Else_Practice\If_Else_Practice\obj\Debug\If_Else_Practice.pdb
