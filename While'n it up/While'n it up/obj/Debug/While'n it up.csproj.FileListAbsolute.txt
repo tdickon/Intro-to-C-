@@ -1,0 +1,5 @@
+C:\Users\Tyler\Documents\C#\While'n it up\While'n it up\bin\Debug\While'n it up.exe.config
+C:\Users\Tyler\Documents\C#\While'n it up\While'n it up\bin\Debug\While'n it up.exe
+C:\Users\Tyler\Documents\C#\While'n it up\While'n it up\bin\Debug\While'n it up.pdb
+C:\Users\Tyler\Documents\C#\While'n it up\While'n it up\obj\Debug\While'n it up.exe
+C:\Users\Tyler\Documents\C#\While'n it up\While'n it up\obj\Debug\While'n it up.pdb
